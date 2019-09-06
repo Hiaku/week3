@@ -37,7 +37,7 @@
 - [x] Done.
 
 ### [JavaScript Functions](https://docs.google.com/document/d/1g4NPayMnNV8UUNdoTLZdcf4BehCip14QDuRwa4V7uFU/edit#).
-#### Project [week3day3](https://github.com/Hiaku/week3/tree/master/Day%203/js_day1).
+#### Project [week3day3](https://github.com/Hiaku/week3/tree/master/Day%203/week3day3).
 - [ ] Not Done.
 - [ ] Halfway Done.
 - [ ] Almost Done.
